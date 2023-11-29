@@ -1,0 +1,556 @@
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\WebDT.dll.config
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\WebDT.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\WebDT.pdb
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\csc.exe
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\csc.exe.config
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\csc.rsp
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\csi.exe
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\csi.exe.config
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\csi.rsp
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\vbc.exe
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\vbc.exe.config
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\vbc.rsp
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Antlr3.Runtime.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\EntityFramework.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Facebook.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeAnalysis.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Newtonsoft.Json.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Owin.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\PagedList.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\PagedList.Mvc.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Buffers.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Collections.Immutable.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Memory.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Numerics.Vectors.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Reflection.Metadata.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Text.Encoding.CodePages.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Helpers.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Mvc.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Optimization.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Razor.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.WebPages.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\WebGrease.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\EntityFramework.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Facebook.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeAnalysis.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\PagedList.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\PagedList.Mvc.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Buffers.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Collections.Immutable.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Memory.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Numerics.Vectors.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Reflection.Metadata.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Text.Encoding.CodePages.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Helpers.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Mvc.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Optimization.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.Razor.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.WebPages.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Newtonsoft.Json.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\obj\Debug\WebDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\obj\Debug\WebDT.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\obj\Debug\WebDT.pdb
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Buffers.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Memory.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\PayPal.dll
+C:\Users\nk172\OneDrive\Desktop\WebDT\WebDT\bin\PayPal.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\WebDT.dll.config
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\WebDT.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\WebDT.pdb
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\csc.exe
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\csc.exe.config
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\csc.rsp
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\csi.exe
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\csi.exe.config
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\csi.rsp
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Buffers.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Memory.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\vbc.exe
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\vbc.exe.config
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\vbc.rsp
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Antlr3.Runtime.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\EntityFramework.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Facebook.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Newtonsoft.Json.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Owin.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\PagedList.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\PagedList.Mvc.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\PayPal.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Buffers.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Collections.Immutable.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Memory.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Numerics.Vectors.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Reflection.Metadata.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Text.Encoding.CodePages.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Helpers.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Mvc.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Optimization.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Razor.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.WebPages.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\WebGrease.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\EntityFramework.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Facebook.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\PagedList.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\PagedList.Mvc.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\PayPal.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Buffers.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Collections.Immutable.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Memory.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Numerics.Vectors.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Reflection.Metadata.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Text.Encoding.CodePages.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Helpers.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Mvc.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Optimization.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.Razor.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.WebPages.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Newtonsoft.Json.xml
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\obj\Debug\WebDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\obj\Debug\WebDT.dll
+C:\Users\nk172\OneDrive\Documents\WebDT\WebDT\WebDT\obj\Debug\WebDT.pdb
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\WebDT.dll.config
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\WebDT.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\WebDT.pdb
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\csc.exe
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\csc.exe.config
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\csc.rsp
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\csi.exe
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\csi.exe.config
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\csi.rsp
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Buffers.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Memory.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Numerics.Vectors.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\vbc.exe
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\vbc.exe.config
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\vbc.rsp
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Antlr3.Runtime.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\EntityFramework.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Facebook.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Newtonsoft.Json.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Owin.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\PagedList.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\PagedList.Mvc.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\PayPal.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Buffers.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Collections.Immutable.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Memory.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Numerics.Vectors.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Reflection.Metadata.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Text.Encoding.CodePages.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Helpers.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Mvc.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Optimization.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Razor.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.WebPages.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\WebGrease.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\EntityFramework.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Facebook.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.pdb
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\PagedList.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\PagedList.Mvc.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\PayPal.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Buffers.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Collections.Immutable.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Memory.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Numerics.Vectors.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Reflection.Metadata.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Text.Encoding.CodePages.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Helpers.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Mvc.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Optimization.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.Razor.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.WebPages.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Newtonsoft.Json.xml
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\obj\Debug\WebDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\obj\Debug\WebDT.dll
+C:\SCHOOL AND WORK\Đảm bảo chất lượng phần mềm\DoAnCuoiKyUnitTesting\WebDT\WebDT\WebDT\obj\Debug\WebDT.pdb
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\WebDT.dll.config
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\WebDT.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\WebDT.pdb
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\csc.exe
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\csc.exe.config
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\csc.rsp
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\csi.exe
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\csi.exe.config
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\csi.rsp
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Buffers.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Memory.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Numerics.Vectors.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\vbc.exe
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\vbc.exe.config
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\vbc.rsp
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Antlr3.Runtime.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\EntityFramework.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Facebook.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Newtonsoft.Json.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Owin.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\PagedList.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\PagedList.Mvc.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\PayPal.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Buffers.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Collections.Immutable.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Memory.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Numerics.Vectors.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Reflection.Metadata.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Text.Encoding.CodePages.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Helpers.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Mvc.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Optimization.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Razor.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.WebPages.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\WebGrease.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\EntityFramework.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Facebook.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.pdb
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\PagedList.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\PagedList.Mvc.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\PayPal.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Buffers.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Collections.Immutable.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Memory.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Numerics.Vectors.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Reflection.Metadata.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Text.Encoding.CodePages.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Threading.Tasks.Extensions.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Helpers.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Mvc.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Optimization.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.Razor.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.WebPages.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Newtonsoft.Json.xml
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\obj\Debug\WebDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\obj\Debug\WebDT.dll
+C:\SCHOOL AND WORK\Design Pattern\WebDT\WebDT\WebDT\obj\Debug\WebDT.pdb
