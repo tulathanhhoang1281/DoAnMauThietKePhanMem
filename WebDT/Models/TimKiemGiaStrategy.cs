@@ -23,7 +23,8 @@ namespace WebDT.Models
 
             if (priceValues.Length == 2 && int.TryParse(priceValues[0], out int minPrice) && int.TryParse(priceValues[1], out int maxPrice))
             {
-                return Tuple.Create(minPrice, maxPrice);
+                if (minPrice >= 0 && maxPrice >= 0 && minPrice <= maxPrice)
+                    return Tuple.Create(minPrice, maxPrice);
             }
 
             return Tuple.Create(0, int.MaxValue);

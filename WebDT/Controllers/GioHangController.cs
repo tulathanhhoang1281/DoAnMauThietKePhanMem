@@ -16,6 +16,7 @@ namespace WebDT.Controllers
     public class GioHangController : Controller
     {
         WebMayTinhEntities _db = new WebMayTinhEntities();
+        GioHangInvoker _commandInvoker = new GioHangInvoker();
         private const string CartSession = "CartSession";
 
         // GET: GioHang
@@ -32,32 +33,19 @@ namespace WebDT.Controllers
 
 
         }
+
         public ActionResult ThemVaoGio(int productId, int quantity)
         {
             var cart = Session[CartSession];
             var product = _db.Products.Find(productId);
+
             if (cart != null)
             {
                 var list = (List<CartItem>)cart;
-                if (list.Exists(x => x.Product.id == productId))
-                {
-                    foreach (var item in list)
-                    {
-                        if (item.Product.id == productId)
-                        {
-                            item.Quantity += quantity;
-                        }
-                    }
-                }
-                else
-                {
-                    var item = new CartItem();
-                    item.Product = _db.Products.Find(productId);
-                    item.Quantity = quantity;
-                    item.actual_number = (int)product.quantity;
-                    list.Add(item);
-                }
-                Session[CartSession] = list;
+
+                var addToCartCommand = new GioHangThemCommand(Session, list, productId, quantity, _db);
+                _commandInvoker.SetCommand(addToCartCommand);
+                _commandInvoker.ExecuteCommand();
             }
             else
             {
@@ -70,8 +58,50 @@ namespace WebDT.Controllers
 
                 Session[CartSession] = list;
             }
+
             return RedirectToAction("Index");
         }
+
+        //public ActionResult ThemVaoGio(int productId, int quantity)
+        //{
+        //    var cart = Session[CartSession];
+        //    var product = _db.Products.Find(productId);
+        //    if (cart != null)
+        //    {
+        //        var list = (List<CartItem>)cart;
+        //        if (list.Exists(x => x.Product.id == productId))
+        //        {
+        //            foreach (var item in list)
+        //            {
+        //                if (item.Product.id == productId)
+        //                {
+        //                    item.Quantity += quantity;
+        //                }
+        //            }
+        //        }
+        //        else
+        //        {
+        //            var item = new CartItem();
+        //            item.Product = _db.Products.Find(productId);
+        //            item.Quantity = quantity;
+        //            item.actual_number = (int)product.quantity;
+        //            list.Add(item);
+        //        }
+        //        Session[CartSession] = list;
+        //    }
+        //    else
+        //    {
+        //        var item = new CartItem();
+        //        item.Product = _db.Products.Find(productId);
+        //        item.Quantity = quantity;
+        //        item.actual_number = (int)product.quantity;
+        //        var list = new List<CartItem>();
+        //        list.Add(item);
+
+        //        Session[CartSession] = list;
+        //    }
+        //    return RedirectToAction("Index");
+        //}
 
         public JsonResult Edit(string cartModel)
         {

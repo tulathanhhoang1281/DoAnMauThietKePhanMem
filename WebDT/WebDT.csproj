@@ -308,6 +308,9 @@
     <Compile Include="Models\EF\User.cs">
       <DependentUpon>Model.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\GioHangCommand.cs" />
+    <Compile Include="Models\GioHangInvoker.cs" />
+    <Compile Include="Models\GioHangThemCommand.cs" />
     <Compile Include="Models\HasCredentialAttribute.cs" />
     <Compile Include="Models\HoaDon.cs" />
     <Compile Include="Models\IdentityModels.cs" />

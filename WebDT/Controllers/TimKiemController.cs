@@ -33,9 +33,10 @@ namespace WebDT.Controllers
             TimKiemStrategy timKiemStrategy = getTimKiemStrategy(sortSearch);
 
             query = timKiemStrategy.Search(query, sTukhoa);
-            var lstSanPham = (from sp in _db.Products
-                              where sp.name.Contains(sTukhoa)
-                              select sp).ToList();
+            //var lstSanPham = (from sp in _db.Products
+            //                  where sp.name.Contains(sTukhoa)
+            //                  select sp).ToList();
+            List<Product> lstSanPham = query.ToList();
 
             if (lstSanPham != null && lstSanPham.Count() <= 0)
             {
