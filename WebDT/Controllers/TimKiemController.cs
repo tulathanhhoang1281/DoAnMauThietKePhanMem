@@ -24,9 +24,15 @@ namespace WebDT.Controllers
         }
         // GET: Search
         [HttpPost]
-        public ActionResult getTimKiem(FormCollection collection, int? page)
+        public ActionResult getTimKiem(FormCollection collection, int? page, string sortSearch)
         {
+
             string sTukhoa = collection["txtTimkiem"].ToString();
+            IQueryable<Product> query = _db.Products.Where(p => p.name.Contains(sTukhoa));
+
+            TimKiemStrategy timKiemStrategy = getTimKiemStrategy(sortSearch);
+
+            query = timKiemStrategy.Search(query, sTukhoa);
             var lstSanPham = (from sp in _db.Products
                               where sp.name.Contains(sTukhoa)
                               select sp).ToList();
@@ -41,6 +47,19 @@ namespace WebDT.Controllers
 
             
             return View(lstSanPham.OrderBy(m => m.name).ToPagedList(pageNumber, pageSize));
+        }
+
+        private TimKiemStrategy getTimKiemStrategy(string sortSearch)
+        {
+            switch(sortSearch)
+            {
+                case "name":
+                    return new TimKiemNaneStrategy();
+                case "price":
+                    return new TimKiemGiaStrategy();
+                default:
+                    return new TimKiemNaneStrategy();         
+            }
         }
     }
 }

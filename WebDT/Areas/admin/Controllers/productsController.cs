@@ -264,7 +264,6 @@ namespace WebDT.Areas.admin.Controllers
                 if (routeBase is Route route)
                 {
                     // Print information about the route
-                    //Console.WriteLine($"Url: {string.Join(", ", route.Url.Select(u => u.ToString()))}");
                     Console.WriteLine($"Url: {string.Join(", ", route.Url?.Select(u => u.ToString()) ?? Enumerable.Empty<string>())}");
 
                     if (route.Defaults != null)

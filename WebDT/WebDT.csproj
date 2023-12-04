@@ -319,6 +319,9 @@
     <Compile Include="Models\ReviewDTO.cs" />
     <Compile Include="Models\ThuocTinhDaXem.cs" />
     <Compile Include="Models\Timkiem.cs" />
+    <Compile Include="Models\TimKiemGiaStrategy.cs" />
+    <Compile Include="Models\TimKiemNaneStrategy.cs" />
+    <Compile Include="Models\TimKiemStrategy.cs" />
     <Compile Include="Models\TinTuc.cs" />
     <Compile Include="Models\userChart.cs" />
     <Compile Include="Models\UserDAO.cs" />
