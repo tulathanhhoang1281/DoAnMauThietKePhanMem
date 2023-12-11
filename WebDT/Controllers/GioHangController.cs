@@ -8,6 +8,7 @@ using System.Net.Mail;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Script.Serialization;
+using WebDT.Areas.admin.Controllers;
 using WebDT.Models;
 using WebDT.Models.EF;
 
@@ -108,13 +109,26 @@ namespace WebDT.Controllers
             var JsonCart = new JavaScriptSerializer().Deserialize<List<CartItem>>(cartModel);
             var cartSec = (List<CartItem>)Session[CartSession];
 
-            foreach (var item in cartSec)
+            /*foreach (var item in cartSec)
             {
                 var jsonItem = JsonCart.SingleOrDefault(x => x.Product.id == item.Product.id);
                 if (jsonItem != null && item.actual_number >= jsonItem.Quantity)
                 {
                     item.Quantity = jsonItem.Quantity;
                 }
+            }*/
+
+            // ITERATION DESGIN
+            CartIterator iterator = new CartIterator(cartSec);
+            var item = iterator.First();
+            while (!iterator.IsDone)
+            {
+                var jsonItem = JsonCart.SingleOrDefault(x => x.Product.id == item.Product.id);
+                if (jsonItem != null && item.actual_number >= jsonItem.Quantity)
+                {
+                    item.Quantity = jsonItem.Quantity;
+                }
+                item = iterator.Next();
             }
 
             Session[CartSession] = cartSec;
@@ -161,15 +175,22 @@ namespace WebDT.Controllers
             _db.Orders.Add(order);
             _db.SaveChanges();
 
+            var user = _db.Users.SingleOrDefault(x => x.name == entity.CustomerName);
+            if (user != null)
+            {
+                user.buyLastDate = DateTime.Now;
+                user.countOrder += 1;
+                user.amountSpent += totalPrice;
+                _db.SaveChanges();
+            }
+
 
             //Lưu ngày đặt hàng, thêm tổng đơn hàng, thêm tổng tiền đã chi
-            var user = _db.Users.Single(x => x.name == entity.CustomerName);    
-            user.buyLastDate = DateTime.Now;
-            user.countOrder += 1;
-            user.amountSpent += totalPrice;
-            _db.SaveChanges();
-
             var cart = (List<CartItem>)Session[CartSession];
+
+            // Check if the cart is not null before proceeding
+            if (cart != null)
+            {
                 foreach (var i in cart)
                 {
                     var orderDetail = new Order_Detail();
@@ -177,25 +198,31 @@ namespace WebDT.Controllers
                     orderDetail.Order_id = order.id;
                     if (i.Product.newprice != null)
                     {
-                      
                         orderDetail.Amount = i.Product.newprice * i.Quantity;
                     }
                     else
                     {
                         orderDetail.Amount = i.Product.price * i.Quantity;
                     }
-                    
                     orderDetail.Quantity = i.Quantity;
 
                     _db.Order_Detail.Add(orderDetail);
                     _db.SaveChanges();
                 }
-                //thanh toán thành công thì cho giỏ hàng bằng null
+
+                // Reset the cart to null after processing
                 Session[CartSession] = null;
+
                 SendEmail(entity.CustomerEmail);
 
-
-            return Redirect("/hoan-thanh");
+                return Redirect("/hoan-thanh");
+            }
+            else
+            {
+                // Handle the case when cart is null (optional)
+                // You can redirect the user to an error page or take appropriate action
+                return RedirectToAction("Index", "Home"); // Redirect to the home page as an example
+            }
         }
         public ActionResult Success()
         {
@@ -290,23 +317,36 @@ namespace WebDT.Controllers
             var smtpClient = new SmtpClient("smtp.gmail.com", 587);
 
             var cart = (List<CartItem>)Session[CartSession];
-            string productName = "";
-            foreach(var item in cart)
-            {
-                productName += item.Product.name + ", ";
-            }
-            msg.From = new MailAddress(email);
-            msg.To.Add(new MailAddress(address));
-            msg.Subject = "Website bán điện thoại xác nhận.";
-            msg.Body = "Bạn đã đặt hàng <a><u>" + productName + "</u></a> từ hệ thống website của chúng tôi. </br>";
-            msg.Body += "Hàng của bạn sẽ được nhân viên chăm sóc khách hàng xác nhận địa chỉ và giao trong thời gian ngắn nhất cho bạn. </br>";
-            msg.Body += "Chi tiết liên hệ hotline: 1900 1000 .Cám ơn quý khách đã ủng hộ cửa hàng.";
-            msg.IsBodyHtml = true;
 
-            smtpClient.EnableSsl = true;
-            smtpClient.UseDefaultCredentials = false;
-            smtpClient.Credentials = loginInfo;
-            smtpClient.Send(msg);
+            // Check if cart is not null before proceeding
+            if (cart != null)
+            {
+                string productName = "";
+                foreach (var item in cart)
+                {
+                    productName += item.Product.name + ", ";
+                }
+
+                msg.From = new MailAddress(email);
+                msg.To.Add(new MailAddress(address));
+                msg.Subject = "Website bán điện thoại xác nhận.";
+                msg.Body = "Bạn đã đặt hàng <a><u>" + productName + "</u></a> từ hệ thống website của chúng tôi. </br>";
+                msg.Body += "Hàng của bạn sẽ được nhân viên chăm sóc khách hàng xác nhận địa chỉ và giao trong thời gian ngắn nhất cho bạn. </br>";
+                msg.Body += "Chi tiết liên hệ hotline: 1900 1000 .Cám ơn quý khách đã ủng hộ cửa hàng.";
+                msg.IsBodyHtml = true;
+
+                smtpClient.EnableSsl = true;
+                smtpClient.UseDefaultCredentials = false;
+                smtpClient.Credentials = loginInfo;
+                smtpClient.Send(msg);
+            }
+            else
+            {
+                // Handle the case when cart is null (optional)
+                // You can log a message or take other appropriate actions
+                // For now, let's log a message to the console
+                Console.WriteLine("Cart is null. Unable to send email.");
+            }
         }
 
 

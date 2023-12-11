@@ -55,7 +55,7 @@ namespace WebDT.Areas.admin.Controllers
         }
 
         //Chart detail 
-        public ActionResult UserChart()
+        /*public ActionResult UserChart()
         {
             var model = db.Users.Where(x => x.buyLastDate != null).ToList();
             var lstUser = new List<userChart>();
@@ -75,6 +75,36 @@ namespace WebDT.Areas.admin.Controllers
                 
                 lstUser.Add(userChart);
             }
+            return Json(lstUser, JsonRequestBehavior.AllowGet);
+        }*/
+        public ActionResult UserChart()
+        {
+            var model = db.Users.Where(x => x.buyLastDate != null).ToList();
+            var lstUser = new List<userChart>();
+
+            //Tính ngày mua hàng gần nhất
+            foreach (var item in model)
+            {
+                var userChart = new userChart();
+                TimeSpan time = DateTime.Now - item.buyLastDate.Value;
+                int Tongngay = time.Days;
+
+                int soDonHang;
+                float soTienMua;
+
+                // Safely parse integer and float values
+                if (int.TryParse(item.countOrder.ToString(), out soDonHang) &&
+                    float.TryParse(item.amountSpent.ToString(), out soTienMua))
+                {
+                    userChart.Tongngay = Tongngay;
+                    userChart.soDonHang = soDonHang;
+                    userChart.soTienMua = soTienMua / 10000000;
+                    userChart.name = item.name;
+
+                    lstUser.Add(userChart);
+                }
+            }
+
             return Json(lstUser, JsonRequestBehavior.AllowGet);
         }
 

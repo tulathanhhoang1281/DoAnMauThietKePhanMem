@@ -227,6 +227,7 @@
     <Compile Include="Controllers\CuahangkhuyenmaiController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\GioHangController.cs" />
+    <Compile Include="Controllers\GioHangIterator.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PaypalController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
@@ -3428,6 +3429,7 @@
     <Content Include="Models\EF\Model.edmx.diagram">
       <DependentUpon>Model.edmx</DependentUpon>
     </Content>
+    <Content Include="Areas\admin\Views\News\Duplicate.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\c3.js" />
     <Content Include="Scripts\c3.min.js" />
@@ -3906,6 +3908,7 @@
     <Folder Include="Areas\admin\Views\TemplateMethod\" />
     <Folder Include="Connected Services\" />
     <Folder Include="Views\ControllerTemplateMethod\" />
+    <Folder Include="Views\GioHangIterator\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
