@@ -163,6 +163,60 @@ namespace WebDT.Areas.admin.Controllers
             db.SaveChanges();
             return RedirectToAction("Index");
         }
+        // GET: admin/News/Duplicate/5
+        public ActionResult Duplicate(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            News news = db.News.Find(id);
+            if (news == null)
+            {
+                return HttpNotFound();
+            }
+            return View(news);
+        }
+
+
+        //PROTOTYPE PATTERNnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+        // POST: admin/News/Duplicate/5
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [ValidateInput(false)]
+        public ActionResult Duplicate([Bind(Include = "id,name,img,description,detail,meta,hide,order,datebegin")] News news, HttpPostedFileBase img)
+        {
+            if (ModelState.IsValid)
+            {
+                // Find the existing news item to be duplicated
+                var existingNews = db.News.Find(news.id);
+
+                // Create a new instance of News and copy the properties from the existingNews
+                var duplicatedNews = new News
+                {
+                    name = existingNews.name,
+                    img = existingNews.img,
+                    description = existingNews.description,
+                    detail = existingNews.detail,
+                    meta = existingNews.meta,
+                    hide = existingNews.hide,
+                    order = existingNews.order,
+                    datebegin = existingNews.datebegin
+                    // Add other properties as needed
+                };
+
+                // Save the duplicated news item to the database
+                db.News.Add(duplicatedNews);
+                db.SaveChanges();
+
+                // Optionally, handle the image duplication logic here
+
+                return RedirectToAction("Index");
+            }
+
+            return View(news);
+        }
 
         protected override void Dispose(bool disposing)
         {

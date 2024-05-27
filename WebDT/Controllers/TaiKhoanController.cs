@@ -30,7 +30,7 @@ namespace WebDT.Controllers
             return View();
         }
         [HttpPost]
-        public ActionResult DangKy(RegisterModel model)
+        public ActionResult DangKy(RegisterModelProxy model)
         {
            
                 var us = new UserDAO();
@@ -59,7 +59,7 @@ namespace WebDT.Controllers
                     {
                         
                         TempData["Success"] = "Đăng ký thành công, bạn vui lòng đăng nhập lại.";
-                        model = new RegisterModel();
+                        model = new RegisterModelProxy();
                         return Redirect("/dang-nhap");
                     }
                     else
